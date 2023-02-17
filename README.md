@@ -1,4 +1,4 @@
-## Assignment 1 (ClientServerSecureConnection)
+# Assignment 1 (ClientServerSecureConnection)
 
 Implementation of a client server model where the communication is secured using AES and RSA encryption. Here the message digest is
 encrypted using AES encryption and the key used is encrypted using the public key provided by the server. By using assymetric encryption
@@ -27,5 +27,5 @@ jupyter lab client.ipynb
 ### Tests
 You can directly run the main file inside the tests directory. 
 
-## Assignment 2 (BitCoin Core installation and basic transactions on testnet)
-Details inside the notebook
+# Assignment 2 
+``` Details inside the notebook ```
