@@ -1,4 +1,5 @@
-# ClientServerSecureConnection
+# Assignment 1 (ClientServerSecureConnection)
+
 Implementation of a client server model where the communication is secured using AES and RSA encryption. Here the message digest is
 encrypted using AES encryption and the key used is encrypted using the public key provided by the server. By using assymetric encryption
 (RSA) to provide a secure way to communicate the encryption key(AES), we can create a link where large amount data can be transmitted
@@ -25,3 +26,6 @@ jupyter lab client.ipynb
 ```
 ### Tests
 You can directly run the main file inside the tests directory. 
+
+# Assignment 2 
+``` Details inside the notebook ```
